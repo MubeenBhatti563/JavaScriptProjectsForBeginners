@@ -133,7 +133,7 @@ async function getCat(e) {
 
         const headers = {
             "Content-Type": "application/json",
-            "x-api-key": "Your_Api_Key_From_thecatapi.com"
+            "x-api-key": "live_uGAx3V2Oi2aYSDiUU46RXwQobfSSgaoDasfiAmTdEc9sCImlbt0nCrm26Yq4Logp"
         };
 
         const res = await fetch("https://api.thecatapi.com/v1/breeds", {
